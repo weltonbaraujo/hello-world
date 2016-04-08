@@ -1,1 +1,5 @@
-cabecalho
+<?
+
+// comentorioá sa´dsdsdsadd
+
+?>
